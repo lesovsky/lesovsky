@@ -2,14 +2,20 @@
 
 I'm Alexey, Linux administrator and PostgreSQL DBA.
 
-- ❤ Love: PostgreSQL, Golang, system engineering, data visualization, web dev (front and backend), my family, outdoor activity and more...
+- ❤ Love: PostgreSQL, Golang, system engineering, data visualization, web dev (front and backend), my family, rope parks, outdoor activity and more...
 
 
 - ⚙️ Released Projects:
     - 🐘 [Weaponry](https://weaponry.io) - SaaS monitoring for PostgreSQL infrastructure.
+    - 📡 [pgSCV](https://github.com/weaponry/pgscv) - a multi-purpose metrics exporter for Prometheus, Victoriametrics and Weaponry.IO.
     - 💻 [Pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
     - ☠️ [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
     - 🚀 [pgstats.dev](https://pgstats.dev) - PostgreSQL Observability Tools.
+
+
+- 📝 Blogs:
+    - [Medium](https://lesovsky.medium.com) (EN)
+    - [Habrahabr](https://habr.com/ru/users/lesovsky/posts) (RU)
 
 
 - ⚒️ Career:
