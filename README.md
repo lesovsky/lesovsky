@@ -13,9 +13,10 @@ I'm Alexey, Linux administrator and PostgreSQL DBA.
     - 🚀 [pgstats.dev](https://pgstats.dev) - PostgreSQL Observability Tools.
 
 
-- 📝 Blogs:
+- 📝 Blogs, notes:
     - [Medium](https://lesovsky.medium.com) (EN)
     - [Habrahabr](https://habr.com/ru/users/lesovsky/posts) (RU)
+    - [Telegram](https://t.me/lesovsky_me) (RU) - small posts, thoughts, notes, useful links.
 
 
 - ⚒️ Career:
