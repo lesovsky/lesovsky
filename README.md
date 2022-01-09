@@ -1,8 +1,8 @@
 ### Howdy! 😃
 
-I'm Alexey, Linux administrator and PostgreSQL DBA.
+I'm Alexey.
 
-- ❤ Love: PostgreSQL, Golang, system engineering, data visualization, web dev (front and backend), my family, rope parks, outdoor activity and more...
+- ❤ Love: System engineering, monitoring, troubleshooting, data visualization, web development, my family, outdoor activity and more...
 
 
 - ⚙️ Released Projects (by priority):
@@ -20,6 +20,6 @@ I'm Alexey, Linux administrator and PostgreSQL DBA.
 
 
 - ⚒️ Career:
-    - PostgreSQL DBA at [Data Egret](https://dataegret.com/).
+    - 2014.01 - 2021.09 - PostgreSQL DBA at [Data Egret](https://dataegret.com/).
 
 ![](https://github-readme-stats.vercel.app/api?username=lesovsky&show_icons=true)
