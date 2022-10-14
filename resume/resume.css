@@ -1,0 +1,21 @@
+.chapter-content {
+    font-family: PT Serif, sans-serif, prince-no-fallback;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+ul {
+    line-height: 1.5em;
+    margin: 0 0 1em 3em;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: #004c91;
+}
