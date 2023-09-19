@@ -15,7 +15,6 @@ I'm Alexey.
 
 
 - 📝 Blogs, notes:
-    - [Medium](https://lesovsky.medium.com) (EN)
     - [Habrahabr](https://habr.com/ru/users/lesovsky/posts) (RU)
     - [Telegram](https://t.me/lesovsky_me) (RU) - small posts, thoughts, notes, useful links.
 
@@ -24,6 +23,6 @@ I'm Alexey.
     - 2014.01 - 2021.09 - PostgreSQL DBA at [Data Egret](https://dataegret.com).
     - 2021.09 - 2021.12 - Devops and Software Engineer at [Wildberries](https://wildberries.ru).
     - 2022.01 - 2022.07 - Software Engineer at [Coins.ph](https://coins.ph).
-    - 2022.07 - ...     - Database Engineer at [PostgresPro](https://postgrespro.com).
+    - 2022.07 - ...     - Database/Software Engineer at [PostgresPro](https://postgrespro.com).
 
 ![](https://github-readme-stats.vercel.app/api?username=lesovsky&show_icons=true)
