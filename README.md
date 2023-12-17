@@ -7,11 +7,11 @@ I'm Alexey.
 
 
 - ⚙️ Released Projects (by priority):
-    - 💻 [Pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.    
-    - ☠️ [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
-    - 📡 [pgSCV](https://github.com/weaponry/pgscv) - a multi-purpose metrics exporter for Prometheus, Victoriametrics.
-    - 🚀 [pgstats.dev](https://pgstats.dev) - PostgreSQL Observability Tools.
-    - 🐘 [Weaponry](https://weaponry.io) - terminated in Jan 2022.
+    - 💻 [Pgcenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres. Development suspended, transferring to PostgresPro.
+    - ☠️ [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL. Development suspended, transferring to PostgresPro.
+    - 📡 [pgSCV](https://github.com/weaponry/pgscv) - a multi-purpose metrics exporter for Prometheus, Victoriametrics. Archived.
+    - 🚀 [pgstats.ru](https://pgstats.ru) - PostgreSQL Observability Tools. Transferred to PostgresPro.
+    - 🐘 Weaponry - terminated in Jan 2022.
 
 
 - 📝 Blogs, notes:
