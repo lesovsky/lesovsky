@@ -22,7 +22,8 @@ I'm Alexey.
 
 
 - ⚒️ Career:
-    - 2022.07 - now     - Database/Software Engineer at [PostgresPro](https://postgrespro.com).
+    - 2022.04 - now     - Project Manager of [PostgresPro Enterprise Manager](https://postgrespro.ru/products/PPEM) at [PostgresPro](https://postgrespro.com).
+    - 2022.07 - 2024.04 - Database/Software Engineer at [PostgresPro](https://postgrespro.com).
     - 2022.01 - 2022.07 - Software Engineer at [Coins.ph](https://coins.ph).
     - 2021.09 - 2021.12 - Devops and Software Engineer at [Wildberries](https://wildberries.ru).
     - 2014.01 - 2021.09 - PostgreSQL DBA at [Data Egret](https://dataegret.com).
